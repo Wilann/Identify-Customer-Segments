@@ -22,7 +22,7 @@ components for clustering
 - Re-fitted a PCA instance on the determined transformation and reviewed the cumulative variance
 - Interpreted principal components to determine the most prominent features
 - Applied clustering (via KMeans) to the general population and used the Elbow Method to decide how many clusters to keep, 
-then re-fit the k-means model with the selected number of clusters 
+then re-fit the K-means model with the selected number of clusters 
 - Mapped the customer data to the clusters for the general population (pre-processed, transformed features, applied 
 clustering via PCA and KMeans from the general population, and obtained cluster predictions for the customer demographic)
 - Compared customer demographic to the general population to see where the strongest customer base for the company is 
