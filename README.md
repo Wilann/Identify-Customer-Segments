@@ -6,10 +6,7 @@
 Project 3 from Udacity's [Intro to Machine Learning Nanodegree](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229)
 
 ### Description
-In this project, I apply unsupervised learning techniques to identify segments of the population that form the core 
-customer base for a mail-order sales company in Germany. These segments can then be used to direct marketing campaigns 
-towards audiences that will have the highest expected rate of returns. The data that I used has been provided by 
-Udacity's partners at Bertelsmann Arvato Analytics, and represents a real-life data science task.
+Applied unsupervised learning techniques to identify segments of the population that form the core customer base for a mail-order sales company in Germany. These segments can then be used to direct marketing campaigns towards audiences that will have the highest expected rate of returns. The data that I used has been provided by Udacity's partners at Bertelsmann Arvato Analytics and represents a real-life data science task.
 
 - Assessed missing data and converted missing value codes to NaNs 
 - Identified, and dropped features/samples that were outliers (features missing more than 20% of data) 
